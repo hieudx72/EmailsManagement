@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\bin\Debug\EmailsManagement.exe.config
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\bin\Debug\EmailsManagement.exe
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\bin\Debug\EmailsManagement.pdb
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\obj\Debug\EmailsManagement.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\obj\Debug\EmailsManagement.Form1.resources
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\obj\Debug\EmailsManagement.Properties.Resources.resources
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\obj\Debug\EmailsManagement.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\obj\Debug\EmailsManagement.exe
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\obj\Debug\EmailsManagement.pdb
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\obj\Debug\EmailsManagement.Menu.resources
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\bin\Debug\Mail.dll
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\bin\Debug\Mail.xml
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\obj\Debug\EmailsManagement.csproj.CopyComplete
+C:\Users\pc\source\repos\EmailsManagement\EmailsManagement\obj\Debug\EmailsManagement.ThuMoi.resources
